@@ -14,7 +14,7 @@
 
 </div>
 
-![头像](inwjannajw/image/1701100412229.jpg)
+![头像](1701100412229.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/jnwjannajw/count.svg)
 
