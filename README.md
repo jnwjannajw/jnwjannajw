@@ -7,7 +7,7 @@
 
 <!-- 2. 头像区域 (加大尺寸 + 圆形裁剪 + 蓝色光晕) -->
 <!-- ⚠️ 重要提示：如果图片还是裂开，请把仓库里的文件名 "水中少女.jpg" 重命名为 "avatar.jpg" -->
-<img src="./image/水中少女.jpg" width="220" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 25px rgba(66, 133, 244, 0.6);" alt="Profile Avatar"/>
+<img src="./jnwjannajw/image/水中少女.jpg" width="220" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 25px rgba(66, 133, 244, 0.6);" alt="Profile Avatar"/>
 
 <h2>👋 你好，我是 jnwjannajw</h2>
 <p><b>现代 C++ 爱好者 | ACG 情人 | 开源探索器</b></p>
